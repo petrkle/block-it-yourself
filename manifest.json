@@ -1,0 +1,19 @@
+{
+  "name": "Block It Yourself",
+  "version": "0.1",
+  "manifest_version": 2,
+  "description": "Block It yourself",
+  "browser_action": {
+    "default_icon": "on.png"
+  },
+	"icons": { "16": "b.png",
+           "48": "b.png",
+					"128": "b.png"	},
+  "background": {
+    "scripts": ["filters.js", "block.js"]
+  },
+  "permissions": ["http://*/*", "https://*/*", "webRequest", "webRequestBlocking"],
+  "incognito": "spanning",
+  "web_accessible_resources": ["empty.gif"],
+	"homepage_url": "https://github.com/petrkle/block-it-yourself"
+}
