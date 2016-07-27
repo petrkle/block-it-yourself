@@ -56,6 +56,7 @@ filters = [
 	"*://*.servedbyopenx.com/*",
 	"*://*.servix.idnes.cz/*",
 	"*://*.tagcdn.com/*",
+	"*://*.toplist.cz/*",
 	"*://*.trackad.cz/*",
 	"*://*.visualwebsiteoptimizer.com/*",
 	"*://www.facebook.com/plugins/*",
