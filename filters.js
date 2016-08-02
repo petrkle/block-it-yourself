@@ -55,6 +55,7 @@ filters = [
 	"*://*.scorecardresearch.com/*",
 	"*://*.servedbyopenx.com/*",
 	"*://*.servix.idnes.cz/*",
+	"*://*.statcounter.com/*",
 	"*://*.tagcdn.com/*",
 	"*://*.toplist.cz/*",
 	"*://*.trackad.cz/*",
