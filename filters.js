@@ -6,6 +6,7 @@ filters = [
 	"*://*.adform.net/*",
 	"*://*.adnxs.com/*",
 	"*://*.adobedtm.com/*",
+	"*://*.adocean.pl/*",
 	"*://*.adroll.com/*",
 	"*://*.adsrvr.org/*",
 	"*://advert.uloz.to/*",
