@@ -49,6 +49,7 @@ filters = [
 	"*://*.openads.aira.cz/*",
 	"*://*.outbrain.com/*",
 	"*://partner.googleadservices.com/*",
+	"*://*.performax.cz/*",
 	"*://*.pictela.net/*",
 	"*://platform.twitter.com/*",
 	"*://*.quantserve.com/*",
