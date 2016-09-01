@@ -10,6 +10,7 @@ filters = [
 	"*://*.adroll.com/*",
 	"*://*.adsrvr.org/*",
 	"*://advert.uloz.to/*",
+	"*://*.adzerk.net/*",
 	"*://*.aimatch.com/*",
 	"*://*.amazon-adsystem.com/*",
 	"*://analytics.slashdotmedia.com/*",
@@ -76,4 +77,5 @@ filters = [
 	"*://www.google.com/js/gweb/analytics/*",
 	"*://www.heureka.cz/direct/*",
 	"*://*.zedo.com/*",
+	"*://*.zkcdn.net/*",
 ]
