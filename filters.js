@@ -103,6 +103,7 @@ filters = [
 	"*://*.quantserve.com/*",
 	"*://*.rubiconproject.com/*",
 	"*://*.scorecardresearch.com/*",
+	"*://*.semnicneposilejte.cz/*",
 	"*://*.servedbyopenx.com/*",
 	"*://*.servix.idnes.cz/*",
 	"*://*.sitepoint.com/dist/js/*.js",
