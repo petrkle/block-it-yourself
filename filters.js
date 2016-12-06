@@ -51,6 +51,7 @@ filters = [
 	"*://*.casalemedia.com/*",
 	"*://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/*",
 	"*://cdn.kyostatics.net/static/js/*",
+	"*://*.cedexis.com/*",
 	"*://*.clickadu.com/*",
 	"*://*.cloudfront.net/atrk.js",
 	"*://*.cloudfront.net/sourceforgemedia-computing_tag.js",
