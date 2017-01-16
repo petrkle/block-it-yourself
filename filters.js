@@ -87,6 +87,7 @@ filters = [
 	"*://*.exponential.com/*",
 	"*://*.fffilm.name/js/*",
 	"*://*.firstimpression.io/*",
+	"*://*.fl-ads.com/*",
 	"*://*.fsdn.com/con/js/*",
 	"*://*.f.weblogy.cz/webtemp/jsloader*",
 	"*://*.fwmrm.net/ad/*",
