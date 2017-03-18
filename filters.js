@@ -78,6 +78,7 @@ filters = [
 	"*://*.disquscdn.com/*",
 	"*://*.disqus.com/*",
 	"*://*.domdex.com/*",
+	"*://*.donorbox.org/*",
 	"*://*.doubleclick.net/*",
 	"*://*.dpmsrv.com/*",
 	"*://*.ebdr3.com/*",
