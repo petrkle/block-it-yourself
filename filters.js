@@ -219,6 +219,8 @@ filters = [
 	"*://px.spiceworks.com/*",
 	"*://*.qualtrics.com/*",
 	"*://*.quantserve.com/*",
+	"*://*.redditstatic.com/gtm*",
+	"*://*.redditstatic.com/moat/*",
 	"*://*.revsci.net/*",
 	"*://*.richmedia.cz/*",
 	"*://*.root.cz/..................................../*",
