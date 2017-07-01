@@ -190,6 +190,7 @@ filters = [
 	"*://*.mouseflow.com/*",
 	"*://*.mousestats.com/*",
 	"*://*.mplxtms.com/*",
+	"*://mtc.svetzitrka.cz/*",
 	"*://*.mxpnl.com/*",
 	"*://*.mynativeplatform.com/*",
 	"*://*.myx.cz/*",
