@@ -291,6 +291,7 @@ filters = [
 	"*://*.tagcdn.com/*",
 	"*://*.tags.tiqcdn.com/*",
 	"*://*.tapad.com/*",
+	"*://*.tawk.to/*",
 	"*://*.teads.tv/*",
 	"*://*.toplist.cz/*",
 	"*://*.trackad.cz/*",
