@@ -288,6 +288,7 @@ filters = [
 	"*://*.segment.io/*",
 	"*://*.sekindo.com/*",
 	"*://*.semnicneposilejte.cz/*",
+	"*://*.sendpulse.com/*",
 	"*://*.servebom.com/*",
 	"*://*.servedbyopenx.com/*",
 	"*://*.servix.idnes.cz/*",
