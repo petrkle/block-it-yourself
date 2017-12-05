@@ -80,6 +80,7 @@ filters = [
 	"*://*.condenastdigital.com/*",
 	"*://*.connatix.com/*",
 	"*://*.connect.facebook.net/*",
+	"*://*.contentexchange.me/*",
 	"*://*.contextweb.com/*",
 	"*://*.convertexperiments.com/*",
 	"*://*.counter.cnw.cz/*",
