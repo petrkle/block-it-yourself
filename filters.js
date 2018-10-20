@@ -191,6 +191,7 @@ filters = [
 	"*://*.leady.com/*",
 	"*://*.leady.cz/*",
 	"*://*.leady.sk/*",
+	"*://*.lhinsights.com/*",
 	"*://*.liadm.com/*",
 	"*://*.lightstep.com/*",
 	"*://*.lightwidget.com/widgets/*",
