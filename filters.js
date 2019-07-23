@@ -106,6 +106,7 @@ filters = [
 	"*://csi.gstatic.com/*",
 	"*://*.ctnsnet.com/*",
 	"*://*.cxense.com/cx.js",
+	"*://*.daktela.com/*",
 	"*://*.demandbase.com/*",
 	"*://*.demdex.net/*",
 	"*://*.digitru.st/*",
