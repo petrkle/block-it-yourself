@@ -36,6 +36,7 @@ filters = [
 	"*://advert.uloz.to/*",
 	"*://*.adzerk.net/*",
 	"*://*.affilbox.cz/*",
+	"*://affiliate.alza.cz/*",
 	"*://*.affiliate.heureka.cz/*",
 	"*://*.agkn.com/*",
 	"*://*.aimatch.com/*",
