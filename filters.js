@@ -19,6 +19,7 @@ filters = [
 	"*://*.adplace.cz/*",
 	"*://*.adriver.ru/*",
 	"*://*.adroll.com/*",
+	"*://*.adscore.re/*",
 	"*://*/adserver/*",
 	"*://adserver.adtech.de/*",
 	"*://adserver.ceskapojistovna.cz/*",
