@@ -194,6 +194,7 @@ filters = [
 	"*://img.blesk.cz/*.js*",
 	"*://img.reflex.cz/js/*.js*",
 	"*://*.indexww.com/*",
+	"*://*.infinario.com/*",
 	"*://*.infolinks.com/*",
 	"*://*.inspectlet.com/*",
 	"*://*.instinctiveads.com/*",
