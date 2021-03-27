@@ -53,6 +53,7 @@ filters = [
 	"*://api.heureka.cz/*",
 	"*://apis.google.com/*",
 	"*://app.smartemailing.cz/*",
+	"*://*.apps-unitx-cloud.com/*",
 	"*://*.apxlv.net/*",
 	"*://*.areyouahuman.com/*",
 	"*://as.wedos.com/*",
