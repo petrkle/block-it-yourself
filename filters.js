@@ -417,6 +417,7 @@ filters = [
 	"*://www.facebook.com/plugins/*",
 	"*://www.google-analytics.com/*",
 	"*://www.google.com/js/gweb/analytics/*",
+	"*://www.irozhlas.cz/sites/default/files/uploader_unmanaged/*",
 	"*://www.super.cz/*cmp.html",
 	"*://*.xpanama.net/*",
 	"*://*.yceml.net/*",
